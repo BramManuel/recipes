@@ -66,6 +66,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/wajda"><img src="https://avatars.githubusercontent.com/u/795479?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alex Vayda</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=wajda" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/nurse-the-code"><img src="https://avatars.githubusercontent.com/u/68450431?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Malachi Gruenhagen</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=nurse-the-code" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jamesandariese"><img src="https://avatars.githubusercontent.com/u/2583421?v=4?s=100" width="100px;" alt=""/><br /><sub><b>James Andariese</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=jamesandariese" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/BramManuel"><img src="https://avatars.githubusercontent.com/u/27723033?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bram Janssen</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=BramManuel" title="Code">💻</a></td>
   </tr>
 </table>
 
