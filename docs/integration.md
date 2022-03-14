@@ -217,3 +217,6 @@ Ferdi uses its recipe repository at <https://github.com/getferdi/recipes> to pub
 Publishing your recipes to Ferdi is super easy! When you used our recipe creation script, we have created a folder for your recipe inside Ferdi's internal folders (the one that got automatically opened after you ran our script).
 
 Simply copy that whole folder into the repositories "recipes" folder. You'll now need to push your changes to Git and create a Pull Request from your fork repository to our repository using the GitHub website.
+
+After the Pull request is merged, the nightly build from the main repo [Ferdi](https://github.com/getferdi/ferdi) will build the change.
+When you restart Ferdi your new service should be in the "Availible services" list.
