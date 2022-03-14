@@ -9,7 +9,7 @@
 <p>
   <a href="https://github.com/getferdi/recipes/actions/workflows/builds.yml"><img alt="Build Status" src="https://github.com/getferdi/recipes/actions/workflows/builds.yml/badge.svg?branch=master&event=push"></a>
   <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<a href='#contributors-'><img src='https://img.shields.io/badge/contributors-25-default.svg?logo=github' alt='Contributors'/></a>
+<a href='#contributors-'><img src='https://img.shields.io/badge/contributors-27-default.svg?logo=github' alt='Contributors'/></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
   <a href="#backers-via-opencollective"><img alt="Open Collective backers" src="https://img.shields.io/opencollective/backers/getferdi?logo=open-collective"></a>
 </p>
@@ -46,7 +46,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/ZwS"><img src="https://avatars.githubusercontent.com/u/2487205?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anton Sudak</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=ZwS" title="Code">💻</a></td>
     <td align="center"><a href="https://voidptr.de"><img src="https://avatars.githubusercontent.com/u/2692085?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nils Steinger</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=n-st" title="Code">💻</a></td>
-    <td align="center"><a href="http://blog.simonszu.de"><img src="https://avatars.githubusercontent.com/u/700707?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Simon Szustkowski</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=simonszu" title="Code">💻</a></td>
+    <td align="center"><a href="http://blog.simonszu.de"><img src="https://avatars.githubusercontent.com/u/700707?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Simon Szustkowski</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=simonszu" title="Code">💻</a> <a href="https://github.com/getferdi/recipes/pulls?q=is%3Apr+reviewed-by%3Asimonszu" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/jpmschuler"><img src="https://avatars.githubusercontent.com/u/12411176?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jpmschuler</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=jpmschuler" title="Code">💻</a></td>
     <td align="center"><a href="http://panz3r.dev"><img src="https://avatars.githubusercontent.com/u/1754457?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mattia Panzeri</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=panz3r" title="Code">💻</a></td>
     <td align="center"><a href="http://briankendall.net"><img src="https://avatars.githubusercontent.com/u/7917884?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Brian Kendall</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=briankendall" title="Code">💻</a></td>
@@ -66,7 +66,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/wajda"><img src="https://avatars.githubusercontent.com/u/795479?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alex Vayda</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=wajda" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/nurse-the-code"><img src="https://avatars.githubusercontent.com/u/68450431?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Malachi Gruenhagen</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=nurse-the-code" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jamesandariese"><img src="https://avatars.githubusercontent.com/u/2583421?v=4?s=100" width="100px;" alt=""/><br /><sub><b>James Andariese</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=jamesandariese" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/BramManuel"><img src="https://avatars.githubusercontent.com/u/27723033?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bram Janssen</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=BramManuel" title="Code">💻</a></td>
+    <td align="center"><a href="http://linkedin.com/in/arun-woosaree"><img src="https://avatars.githubusercontent.com/u/8227297?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Arun Woosaree</b></sub></a><br /><a href="https://github.com/getferdi/recipes/commits?author=Arunscape" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Lawrence-ux"><img src="https://avatars.githubusercontent.com/u/39221871?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Carter Poe</b></sub></a><br /><a href="https://github.com/getferdi/recipes/pulls?q=is%3Apr+reviewed-by%3ALawrence-ux" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
